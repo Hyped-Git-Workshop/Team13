@@ -8,11 +8,11 @@ BatteryManagementSystem::BatteryManagementSystem()
 <<<<<<< HEAD
 double BatteryManagementSystem::get_current()
 {
-  return 0;
+  return 1;
 =======
 double BatteryManagementSystem::get_voltage()
 {
-    return 0;
+    return 1;
 >>>>>>> a
 }
 /// END OF TASKS 9AB ///////////////////////////////////////////////////////////
