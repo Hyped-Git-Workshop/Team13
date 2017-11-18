@@ -14,6 +14,6 @@ double BatteryManagementSystem::get_current()
 double BatteryManagementSystem::get_voltage()
 {
     return 1;
->>>>>>> a
 }
+>>>>>>> a
 /// END OF TASKS 9AB ///////////////////////////////////////////////////////////
